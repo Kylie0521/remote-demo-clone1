@@ -1,2 +1,3 @@
 # remote-demo-clone1
-part2
+
+### this is a git clone test
